@@ -1,1 +1,1 @@
-hi
+print("This is supposed to autoexecute on serverhop/rejoin")
