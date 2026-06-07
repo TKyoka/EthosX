@@ -297,7 +297,7 @@ TabBorderTransparencyActive=0.75,
 TabBorder="White",
 
 ElementBackground="Text",
-ElementBackgroundTransparency=0.93,
+ElementBackgroundTransparency=1,
 ElementBackgroundHover=b:AddColor("ElementBackground","#ffffff",0.1),
 ElementTitle="Text",
 ElementDesc="Text",
