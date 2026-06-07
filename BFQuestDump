@@ -1,3 +1,4 @@
+--BFQuestDump
 local quests = {
     ["BanditQuest1"] = {
         {
