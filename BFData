@@ -1,5 +1,5 @@
 return {
-    ISLAND_NAMES = {
+    QUEST_ISLANDS = {
         BanditQuest1      = "Windmill",       MarineQuest       = "MarineStart",  JungleQuest       = "Jungle",
         BuggyQuest1       = "Pirate",         BuggyQuest2       = "Pirate",       DesertQuest       = "Desert",
         SnowQuest         = "Ice",            MarineQuest2      = "MarineBase",   SkyQuest          = "Sky",
