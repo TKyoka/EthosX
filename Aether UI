@@ -364,7 +364,7 @@ NotificationBorderTransparency=0.75,
 DropdownTabBorder="White",
 
 LabelBackground="White",
-LabelBackgroundTransparency=0.95,
+LabelBackgroundTransparency=1,
 
 ViewportBackground="ElementBackground",
 ViewportBackgroundTransparency="ElementBackgroundTransparency",
@@ -3700,7 +3700,7 @@ LabelBackground=Color3.fromHex"#000000",
 LabelBackgroundTransparency=0.83,
 
 ElementBackground=Color3.fromHex"#2A2A2C",
-ElementBackgroundTransparency=0,
+ElementBackgroundTransparency=1,
 },
 
 Light={
@@ -3731,7 +3731,7 @@ LabelBackground=Color3.fromHex"#ffffff",
 LabelBackgroundTransparency=0,
 
 ElementBackground=Color3.fromHex"#EEEEEE",
-ElementBackgroundTransparency=0,
+ElementBackgroundTransparency=1,
 },
 
 Rose={
@@ -3747,7 +3747,7 @@ Button=Color3.fromHex"#e95f74",
 Icon=Color3.fromHex"#fb7185",
 
 ElementBackground=Color3.fromHex"#381E23",
-ElementBackgroundTransparency=0,
+ElementBackgroundTransparency=1,
 },
 
 Plant={
@@ -3763,7 +3763,7 @@ Button=Color3.fromHex"#16a34a",
 Icon=Color3.fromHex"#4ade80",
 
 ElementBackground=Color3.fromHex"#28342A",
-ElementBackgroundTransparency=0,
+ElementBackgroundTransparency=1,
 },
 
 Red={
@@ -3779,7 +3779,7 @@ Button=Color3.fromHex"#dc2626",
 Icon=Color3.fromHex"#ef4444",
 
 ElementBackground=Color3.fromHex"#322221",
-ElementBackgroundTransparency=0,
+ElementBackgroundTransparency=1,
 },
 
 Indigo={
@@ -3795,7 +3795,7 @@ Button=Color3.fromHex"#4f46e5",
 Icon=Color3.fromHex"#6366f1",
 
 ElementBackground=Color3.fromHex"#282543",
-ElementBackgroundTransparency=0,
+ElementBackgroundTransparency=1,
 },
 
 Sky={
@@ -3818,7 +3818,7 @@ PanelBackground=Color3.fromHex"#0d3a47",
 PanelBackgroundTransparency=0.8,
 
 ElementBackground=Color3.fromHex"#172E3B",
-ElementBackgroundTransparency=0,
+ElementBackgroundTransparency=1,
 },
 
 Violet={
@@ -3834,7 +3834,7 @@ Button=Color3.fromHex"#7c3aed",
 Icon=Color3.fromHex"#8b5cf6",
 
 ElementBackground=Color3.fromHex"#342650",
-ElementBackgroundTransparency=0,
+ElementBackgroundTransparency=1,
 },
 
 Amber={
@@ -3893,7 +3893,7 @@ PanelBackground=Color3.fromHex"#FFFFFF",
 PanelBackgroundTransparency=0.95,
 
 ElementBackground=Color3.fromHex"#3A2E22",
-ElementBackgroundTransparency=0,
+ElementBackgroundTransparency=1,
 },
 
 Emerald={
@@ -3909,7 +3909,7 @@ Button=Color3.fromHex"#059669",
 Icon=Color3.fromHex"#10b981",
 
 ElementBackground=Color3.fromHex"#202E2A",
-ElementBackgroundTransparency=0,
+ElementBackgroundTransparency=1,
 },
 
 Midnight={
@@ -3926,7 +3926,7 @@ Primary=Color3.fromHex"#2563eb",
 Icon=Color3.fromHex"#5591f4",
 
 ElementBackground=Color3.fromHex"#242836",
-ElementBackgroundTransparency=0,
+ElementBackgroundTransparency=1,
 },
 
 Crimson={
@@ -3942,7 +3942,7 @@ Button=Color3.fromHex"#991b1b",
 Icon=Color3.fromHex"#dc2626",
 
 ElementBackground=Color3.fromHex"#251F1F",
-ElementBackgroundTransparency=0,
+ElementBackgroundTransparency=1,
 },
 
 MonokaiPro={
@@ -3958,7 +3958,7 @@ Button=Color3.fromHex"#ab9df2",
 Icon=Color3.fromHex"#a9dc76",
 
 ElementBackground=Color3.fromHex"#323039",
-ElementBackgroundTransparency=0,
+ElementBackgroundTransparency=1,
 
 Metadata={
 PullRequest=23,
@@ -3979,7 +3979,7 @@ Slider=Color3.fromHex"#d946ef",
 Icon=Color3.fromHex"#06b6d4",
 
 ElementBackground=Color3.fromHex"#312643",
-ElementBackgroundTransparency=0,
+ElementBackgroundTransparency=1,
 },
 
 Mellowsi={
@@ -3999,7 +3999,7 @@ Slider=Color3.fromHex"#C9A24D",
 Checkbox=Color3.fromHex"#C9A24D",
 
 ElementBackground=Color3.fromHex"#33291E",
-ElementBackgroundTransparency=0,
+ElementBackgroundTransparency=1,
 
 Metadata={
 PullRequest=52,
