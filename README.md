@@ -1,4 +1,4 @@
-# Ethos | Script Hub
+# Ethos | Script Hub (Aether)
 Have Multiple Games | Join the Discord Server for updates regarding the scripts !
 ## Links 🔗
 Discord - https://discord.gg/ZRfJ7kdGDv
