@@ -364,7 +364,7 @@ NotificationBorderTransparency=0.75,
 DropdownTabBorder="White",
 
 LabelBackground="White",
-LabelBackgroundTransparency=0,
+LabelBackgroundTransparency=1,
 
 ViewportBackground="ElementBackground",
 ViewportBackgroundTransparency="ElementBackgroundTransparency",
@@ -3700,7 +3700,7 @@ LabelBackground=Color3.fromHex"#000000",
 LabelBackgroundTransparency=0.83,
 
 ElementBackground=Color3.fromHex"#2A2A2C",
-ElementBackgroundTransparency=1,
+ElementBackgroundTransparency=0.5,
 },
 
 Light={
