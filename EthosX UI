@@ -3951,7 +3951,7 @@ Slider=Color3.fromHex"#0091FF",
 Checkbox=Color3.fromHex"#0091FF",
 
 PanelBackground=Color3.fromHex"#FFFFFF",
-PanelBackgroundTransparency=1,
+PanelBackgroundTransparency=0.95,
 
 SliderIcon=Color3.fromHex"#908F95",
 Primary=Color3.fromHex"#0091FF",
@@ -3989,7 +3989,7 @@ TabBackgroundActive=Color3.fromHex"#efefef",
 TabBackgroundActiveTransparency=0,
 
 PanelBackground=Color3.fromHex"#efefef",
-PanelBackgroundTransparency=0,
+PanelBackgroundTransparency=0.8,
 
 LabelBackground=Color3.fromHex"#efefef",
 LabelBackgroundTransparency=0,
