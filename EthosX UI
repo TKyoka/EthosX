@@ -3968,11 +3968,11 @@ Light={
 Name="Light",
 
 Accent=Color3.fromHex"#efefef",
-Dialog=Color3.fromHex"#f4f4f5",
+Dialog=Color3.fromHex"#a7a7a7",
 Outline=Color3.fromHex"#ffffff",
 Text=Color3.fromHex"#000000",
 Placeholder=Color3.fromHex"#555555",
-Background=Color3.fromHex"#FFFFFF",
+Background=Color3.fromHex"#999999",
 Button=Color3.fromHex"#18181b",
 Icon=Color3.fromHex"#52525b",
 Toggle=Color3.fromHex"#33C759",
@@ -3982,16 +3982,16 @@ Checkbox=Color3.fromHex"#0091FF",
 DropdownTabBackground=Color3.fromHex"#bebebe",
 DropdownBackground=Color3.fromHex"#ffffff",
 
-TabBackground=Color3.fromHex"#ffffff",
+TabBackground=Color3.fromHex"#5a5a5a",
 TabBackgroundHover=Color3.fromHex"#5a5a5a",
 TabBackgroundHoverTransparency=0.8,
 TabBackgroundActive=Color3.fromHex"#6b6b6b",
 TabBackgroundActiveTransparency=0.6,
 
-PanelBackground=Color3.fromHex"#a7a7a7",
+PanelBackground=Color3.fromHex"#5a5a5a",
 PanelBackgroundTransparency=0.75,
 
-LabelBackground=Color3.fromHex"#9e9e9e",
+LabelBackground=Color3.fromHex"#5a5a5a",
 LabelBackgroundTransparency=0.95,
 
 ElementBackground=Color3.fromHex"#ffffff",
@@ -4012,57 +4012,6 @@ Icon=Color3.fromHex"#fb7185",
 
 ElementBackground=Color3.fromHex"#381E23",
 ElementBackgroundTransparency=1,
-},
-
-Aqua={
-Name="Aqua",
-
-Accent=Color3.fromHex"#16c7c7",
-Dialog=Color3.fromHex"#133d4a",
-
-Text=Color3.fromHex"#e6fdff",
-Placeholder=Color3.fromHex"#7cbcc4",
-
-Background=aa:Gradient({
-    ["0"]={Color=Color3.fromHex"#0b3040",Transparency=0},
-    ["100"]={Color=Color3.fromHex"#0d6665",Transparency=0},
-},{Rotation=135}),
-
-Button=Color3.fromHex"#1698b6",
-Primary=Color3.fromHex"#1dcfff",
-
-Icon=Color3.fromHex"#4adfff",
-
-Toggle=Color3.fromHex"#18f2a7",
-Slider=Color3.fromHex"#1dcfff",
-Checkbox=Color3.fromHex"#1dcfff",
-
-PanelBackground=Color3.fromHex"#1f5560",
-PanelBackgroundTransparency=0.82,
-
-LabelBackground=Color3.fromHex"#194954",
-LabelBackgroundTransparency=0.88,
-
-ElementBackground=Color3.fromHex"#295f69",
-ElementBackgroundTransparency=0.94,
-
-DropdownTabBackground=Color3.fromHex"#326974",
-DropdownBackground=Color3.fromHex"#275963",
-
-TabBackground=Color3.fromHex"#27535d",
-TabBackgroundHover=Color3.fromHex"#326975",
-TabBackgroundHoverTransparency=0.2,
-
-TabBackgroundActive=Color3.fromHex"#3a7d8b",
-TabBackgroundActiveTransparency=0.1,
-
-Outline=Color3.fromHex"#6dd8e5",
-
-SliderIcon=Color3.fromHex"#84eaff",
-
-Metadata={
-    InspiredBy="Fluent 2 Aqua",
-},
 },
 
 Plant={
