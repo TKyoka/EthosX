@@ -1548,7 +1548,7 @@ m,
 d("ImageLabel",{
 Name="Background",
 Image=h.Background,
-BackgroundTransparency=1,
+BackgroundTransparency=0,
 Size=UDim2.new(1,0,1,0),
 ScaleType="Crop",
 ImageTransparency=h.BackgroundImageTransparency
