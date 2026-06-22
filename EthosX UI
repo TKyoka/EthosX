@@ -266,7 +266,7 @@ BackgroundTransparency=0,
 Hover="Text",
 
 PanelBackground="White",
-PanelBackgroundTransparency=0,
+PanelBackgroundTransparency=1,
 
 WindowBackground="Background",
 
