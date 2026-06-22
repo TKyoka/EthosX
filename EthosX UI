@@ -3951,7 +3951,7 @@ Slider=Color3.fromHex"#0091FF",
 Checkbox=Color3.fromHex"#0091FF",
 
 PanelBackground=Color3.fromHex"#FFFFFF",
-PanelBackgroundTransparency=0,
+PanelBackgroundTransparency=1,
 
 SliderIcon=Color3.fromHex"#908F95",
 Primary=Color3.fromHex"#0091FF",
@@ -4154,7 +4154,7 @@ Checkbox=aa:Gradient({
 },{Rotation=45}),
 
 PanelBackground=Color3.fromHex"#FFFFFF",
-PanelBackgroundTransparency=0,
+PanelBackgroundTransparency=1,
 
 ElementBackground=Color3.fromHex"#3A2E22",
 ElementBackgroundTransparency=1,
