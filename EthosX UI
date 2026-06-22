@@ -4005,7 +4005,7 @@ Light={
 
     Primary=Color3.fromHex"#0a84ff",
     SliderIcon=Color3.fromHex"#9ca3af",
-}
+},
 
 Rose={
 Name="Rose",
