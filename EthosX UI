@@ -3965,45 +3965,46 @@ ElementBackgroundTransparency=1,
 },
 
 Light={
-Name="Light",
+    Name="Light",
 
-Accent=Color3.fromHex"#d6d6db",
-Dialog=Color3.fromHex"#ececef",
+    Accent=Color3.fromHex"#e5e7eb",
+    Dialog=Color3.fromHex"#f3f4f6",
 
-Outline=Color3.fromHex"#c7c7cc",
+    Outline=Color3.fromHex"#d1d5db",
 
-Text=Color3.fromHex"#1c1c1e",
-Placeholder=Color3.fromHex"#6e6e73",
+    Text=Color3.fromHex"#111827",
+    Placeholder=Color3.fromHex"#6b7280",
 
-Background=Color3.fromHex"#e9e9ec",
+    Background=Color3.fromHex"#f5f5f7",
 
-Button=Color3.fromHex"#007aff",
-Icon=Color3.fromHex"#7c7c80",
+    Button=Color3.fromHex"#2563eb",
+    Icon=Color3.fromHex"#6b7280",
 
-Toggle=Color3.fromHex"#34c759",
-Slider=Color3.fromHex"#007aff",
-Checkbox=Color3.fromHex"#007aff",
+    Toggle=Color3.fromHex"#34c759",
+    Slider=Color3.fromHex"#0a84ff",
+    Checkbox=Color3.fromHex"#0a84ff",
 
-DropdownTabBackground=Color3.fromHex"#dcdce1",
-DropdownBackground=Color3.fromHex"#f7f7f8",
+    DropdownTabBackground=Color3.fromHex"#e5e7eb",
+    DropdownBackground=Color3.fromHex"#ffffff",
 
-TabBackground=Color3.fromHex"#f5f5f7",
-TabBackgroundHover=Color3.fromHex"#ebebef",
-TabBackgroundHoverTransparency=0,
+    TabBackground=Color3.fromHex"#eceef2",
+    TabBackgroundHover=Color3.fromHex"#e5e7eb",
+    TabBackgroundHoverTransparency=0,
 
-TabBackgroundActive=Color3.fromHex"#d9d9df",
-TabBackgroundActiveTransparency=0,
+    TabBackgroundActive=Color3.fromHex"#dbe4ff",
+    TabBackgroundActiveTransparency=0,
 
-PanelBackground=Color3.fromHex"#ffffff",
-PanelBackgroundTransparency=0.25,
+    PanelBackground=Color3.fromHex"#ffffff",
+    PanelBackgroundTransparency=0.05,
 
-LabelBackground=Color3.fromHex"#f2f2f4",
-LabelBackgroundTransparency=0.15,
+    LabelBackground=Color3.fromHex"#f3f4f6",
+    LabelBackgroundTransparency=0,
 
-ElementBackground=Color3.fromHex"#fafafa",
-ElementBackgroundTransparency=0.05,
+    ElementBackground=Color3.fromHex"#ffffff",
+    ElementBackgroundTransparency=0,
 
-Primary=Color3.fromHex"#007aff",
+    Primary=Color3.fromHex"#0a84ff",
+    SliderIcon=Color3.fromHex"#9ca3af",
 }
 
 Rose={
