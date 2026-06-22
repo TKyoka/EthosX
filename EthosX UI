@@ -3984,15 +3984,15 @@ DropdownBackground=Color3.fromHex"#ffffff",
 
 TabBackground=Color3.fromHex"#ffffff",
 TabBackgroundHover=Color3.fromHex"#f3f3f3",
-TabBackgroundHoverTransparency=0,
+TabBackgroundHoverTransparency=0.95,
 TabBackgroundActive=Color3.fromHex"#efefef",
-TabBackgroundActiveTransparency=0,
+TabBackgroundActiveTransparency=0.8,
 
 PanelBackground=Color3.fromHex"#efefef",
-PanelBackgroundTransparency=0,
+PanelBackgroundTransparency=0.85,
 
 LabelBackground=Color3.fromHex"#efefef",
-LabelBackgroundTransparency=0,
+LabelBackgroundTransparency=0.8,
 
 ElementBackground=Color3.fromHex"#ffffff",
 ElementBackgroundTransparency=1,
