@@ -487,7 +487,7 @@ BackgroundTransparency=0,
 Hover="Text",
 
 PanelBackground="White",
-PanelBackgroundTransparency=1,
+PanelBackgroundTransparency=0,
 
 WindowBackground="Background",
 
@@ -3951,7 +3951,7 @@ Slider=Color3.fromHex"#0091FF",
 Checkbox=Color3.fromHex"#0091FF",
 
 PanelBackground=Color3.fromHex"#FFFFFF",
-PanelBackgroundTransparency=1,
+PanelBackgroundTransparency=0,
 
 SliderIcon=Color3.fromHex"#908F95",
 Primary=Color3.fromHex"#0091FF",
@@ -4154,7 +4154,7 @@ Checkbox=aa:Gradient({
 },{Rotation=45}),
 
 PanelBackground=Color3.fromHex"#FFFFFF",
-PanelBackgroundTransparency=1,
+PanelBackgroundTransparency=0,
 
 ElementBackground=Color3.fromHex"#3A2E22",
 ElementBackgroundTransparency=1,
