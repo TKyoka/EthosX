@@ -364,7 +364,7 @@ NotificationBorderTransparency=0.75,
 DropdownTabBorder="White",
 
 LabelBackground="White",
-LabelBackgroundTransparency=1,
+LabelBackgroundTransparency=0,
 
 ViewportBackground="ElementBackground",
 ViewportBackgroundTransparency="ElementBackgroundTransparency",
