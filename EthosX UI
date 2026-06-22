@@ -519,7 +519,7 @@ TabBorderTransparencyActive=0.75,
 TabBorder="White",
 
 ElementBackground="Text",
-ElementBackgroundTransparency=0.93,
+ElementBackgroundTransparency=1,
 ElementBackgroundHover=b:AddColor("ElementBackground","#ffffff",0.1),
 ElementTitle="Text",
 ElementDesc="Text",
@@ -564,7 +564,7 @@ SectionIcon="Icon",
 SectionExpandIcon="Icon",
 SectionExpandIconTransparency=0.4,
 SectionBox="Text",
-SectionBoxTransparency=1,
+SectionBoxTransparency=0.95,
 SectionBoxBorder="White",
 SectionBoxBorderTransparency=0.75,
 SectionBoxBackground="ElementBackground",
@@ -581,7 +581,7 @@ NotificationTitleTransparency=0,
 NotificationContent="Text",
 NotificationContentTransparency=0.4,
 NotificationDuration="White",
-NotificationDurationTransparency=1,
+NotificationDurationTransparency=0.95,
 NotificationBorder="White",
 NotificationBorderTransparency=0.75,
 
@@ -2557,7 +2557,7 @@ TextSize=18,
 })
 
 ab.AddSignal(ao.MouseEnter,function()
-ad(ao.Frame,0.047,{ImageTransparency=1}):Play()
+ad(ao.Frame,0.047,{ImageTransparency=0.95}):Play()
 end)
 ab.AddSignal(ao.MouseLeave,function()
 ad(ao.Frame,0.047,{ImageTransparency=1}):Play()
@@ -3268,7 +3268,7 @@ TextXAlignment="Left",
 },true)
 
 ab.AddSignal(v.MouseEnter,function()
-ad(v,0.08,{ImageTransparency=1}):Play()
+ad(v,0.08,{ImageTransparency=0.95}):Play()
 end)
 ab.AddSignal(v.InputEnded,function()
 ad(v,0.08,{ImageTransparency=1}):Play()
@@ -3958,7 +3958,7 @@ Primary=Color3.fromHex"#0091FF",
 
 
 LabelBackground=Color3.fromHex"#000000",
-LabelBackgroundTransparency=0.83,   
+LabelBackgroundTransparency=0.83,
 
 ElementBackground=Color3.fromHex"#2A2A2C",
 ElementBackgroundTransparency=0,
@@ -7300,7 +7300,7 @@ Tags=ak.Tags,
 }
 
 al.UIElements.SliderIcon=ae.NewRoundFrame(99,"Squircle",{
-ImageTransparency=1,
+ImageTransparency=0.95,
 Size=UDim2.new(1,not al.IsTextbox and-aw or(-al.TextBoxWidth-8),0,4),
 AnchorPoint=Vector2.new(0.5,0.5),
 Position=UDim2.new(0.5,0,0.5,0),
@@ -12304,7 +12304,7 @@ or(((ap.Padding-2)*2)+aB.Main.Outline.Frame.Title.TextBounds.Y)
 )
 
 ai.AddSignal(aB.Main.MouseEnter,function()
-al(aB.Main,0.04,{ImageTransparency=1}):Play()
+al(aB.Main,0.04,{ImageTransparency=0.95}):Play()
 
 end)
 ai.AddSignal(aB.Main.InputEnded,function()
@@ -12986,7 +12986,7 @@ an.AddSignal(d.MouseButton1Click,function()
 aw.User.Callback()
 end)
 an.AddSignal(d.MouseEnter,function()
-ap(d.UserIcon,0.04,{ImageTransparency=1}):Play()
+ap(d.UserIcon,0.04,{ImageTransparency=0.95}):Play()
 ap(d.Outline,0.04,{ImageTransparency=0.85}):Play()
 end)
 an.AddSignal(d.InputEnded,function()
